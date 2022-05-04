@@ -1,7 +1,9 @@
-datapack-template
+datapack-loaded
 ==
 
 ## Features
+
+tellraw when `/reload`
 
 ## Usage
 
